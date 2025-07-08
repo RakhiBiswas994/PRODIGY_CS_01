@@ -8,7 +8,12 @@ It encrypts and decrypts text by shifting characters based on a user-defined key
 
 1. Encrypt/decrypt messages  
 2. Customizable shift value  
-3. Supports both uppercase and lowercase letters  
+3. Supports both uppercase and lowercase letters
+
+ ## 📚 Learning Focus
+🎯 Basics of cryptography
+🎯 String manipulation in Python
+🎯 Control flow using conditions and loops 
 
 
 ## 💻 How to Run
@@ -16,7 +21,4 @@ It encrypts and decrypts text by shifting characters based on a user-defined key
 ```bash
 python Caesar_cipher.py
 
- ## 📚 Learning Focus
-🎯 Basics of cryptography
-🎯 String manipulation in Python
-🎯 Control flow using conditions and loops
+
