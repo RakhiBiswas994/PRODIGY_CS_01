@@ -16,7 +16,7 @@ It encrypts and decrypts text by shifting characters based on a user-defined key
 ```bash
 python Caesar_cipher.py
 
-📚 Learning Focus
+ ## 📚 Learning Focus
 🎯 Basics of cryptography
 🎯 String manipulation in Python
 🎯 Control flow using conditions and loops
